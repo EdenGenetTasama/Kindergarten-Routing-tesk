@@ -6,6 +6,7 @@ export default function Teacher(){
     return(
         <div>
             <h2>Welcome dear kindergarten teacher</h2>
+            <hr/>
         </div>
     )
 }

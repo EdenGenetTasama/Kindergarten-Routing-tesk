@@ -6,6 +6,7 @@ export default function Parents(){
     return(
         <div>
             Welcome dear Parents
+            <hr/>
         </div>
     )
 }
